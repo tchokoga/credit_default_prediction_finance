@@ -1,5 +1,7 @@
 # 💳 Credit Default Prediction
 
+[![Open in Streamlit](https://img.shields.io/badge/▶️_Try_App-Streamlit-orange?logo=streamlit)](https://creditdefaultapp-k2c5sqc3appitiknbrgsxnl.streamlit.app/)
+
 ## 🧠 Project Overview
 
 This project builds a machine learning model to predict whether a credit card client will default on their payment next month. It uses a real-world dataset from a bank and covers an end-to-end ML pipeline.
@@ -77,6 +79,10 @@ The goal is to help financial institutions **reduce credit risk**, **optimize le
 - Deployment (e.g. Streamlit app or Flask API)
 
 
+---
+
+## 🧠 Try it live
 
 
+🔗 [Open the Streamlit App](https://creditdefaultapp-k2c5sqc3appitiknbrgsxnl.streamlit.app/)
 
